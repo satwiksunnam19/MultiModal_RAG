@@ -1,0 +1,8 @@
+qwen-vl-utils
+streamlit 
+torch 
+numpy 
+Ipython 
+qdrant_client 
+pdf2image
+colpali-engine
